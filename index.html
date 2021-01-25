@@ -7,8 +7,24 @@
    
   </style>
 	
-<meta charset="utf-8">
-<title>contextmenu</title>
+  <meta charset="utf-8">
+  <title>contextmenu</title>
+  <style>
+   .rotateleft {
+    transform: rotate(-90deg);
+   }
+   .rotateright {
+    transform: rotate(90deg);
+   }
+  </style>
+  <script>
+   function rotateLeft() {
+    document.querySelector("img").classList.toggle("rotateleft");
+   }
+   function rotateRight() {
+    document.querySelector("img").classList.toggle("rotateright");
+   }
+  </script>
 	
 	
  </head>
@@ -30,13 +46,12 @@
 <div class="text"> <p> <input type="checkbox" /> </p> </div> <div class="text"> <p title="Вежливый">Иванов </p> </div> <br>
 <div class="text"> <p> <input type="checkbox" /> </p> </div> <div class="text"> <p title="Отзывчивый">Петров </p> </div> <br>
 	 
-<p><img src="images/figure.jpg" alt="" contextmenu="edit"></p>
+  <img src="images/figure.jpg" alt="" contextmenu="edit">
   <menu type="context" id="edit">
-   <li>Пункт1</li>
-   <li>Пункт2</li>
-   <li>Пункт3</li>
-   <li>Пункт4</li>
-   <li>Пункт5</li>
+    <menuitem icon="images/object-rotate-right.png"
+     onclick="rotateRight()">Повернуть на 90º ПЧС</menuitem>
+   <menuitem icon="images/object-rotate-left.png"
+     onclick="rotateLeft()">Повернуть на 90º ПрЧС</menuitem>
   </menu>
 	  
  </body>
