@@ -1,0 +1,877 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IsleMag v10.0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-05-21 12:22+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ islemag
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+# @ islemag
+#: 404.php:16
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+# @ islemag
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Ничего не было найдено. Может попробовать одну из следующих ссылок или новый поиск?"
+
+# @ islemag
+#: comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+# @ islemag
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ islemag
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+# @ islemag
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ islemag
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+# @ islemag
+#: comments.php:84 comments.php:85
+msgid "Name"
+msgstr "Имя"
+
+# @ islemag
+#: comments.php:92
+msgid "Email"
+msgstr ""
+
+# @ islemag
+#: comments.php:93
+msgid "Your E-mail"
+msgstr "Ваш E-mail"
+
+# @ islemag
+#: comments.php:100 comments.php:101
+msgid "Website"
+msgstr "Веб-сайт"
+
+# @ islemag
+#: comments.php:110
+msgctxt "noun"
+msgid "Comment"
+msgstr "Комментарий"
+
+# @ islemag
+#: comments.php:111
+msgid "Your Message"
+msgstr "Сообщение"
+
+# @ islemag
+#: footer.php:74
+msgid "Widgets Area 1"
+msgstr ""
+
+# @ islemag
+#: footer.php:80
+msgid "Widgets Area 2"
+msgstr ""
+
+# @ islemag
+#: footer.php:86
+msgid "Widgets Area 3"
+msgstr ""
+
+# @ islemag
+#: functions.php:63
+msgid "Top"
+msgstr "Верх"
+
+# @ islemag
+#: functions.php:64
+msgid "Primary"
+msgstr "Основное"
+
+# @ islemag
+#: functions.php:65 inc/customizer.php:103
+msgid "Footer"
+msgstr ""
+
+# @ islemag
+#: functions.php:104
+msgid "Banner"
+msgstr "Банер"
+
+# @ islemag
+#: functions.php:126
+msgid "Small Advertisement"
+msgstr "Малый Реклама"
+
+# @ islemag
+#: functions.php:127
+msgid "Leaderboard"
+msgstr "Таблица лидеров"
+
+# @ islemag
+#: functions.php:128
+msgid "3:1 Rectangle"
+msgstr ""
+
+# @ islemag
+#: functions.php:129
+msgid "Medium Rectangle"
+msgstr ""
+
+# @ islemag
+#: functions.php:130
+msgid "Half-page ad"
+msgstr ""
+
+# @ islemag
+#: functions.php:131
+msgid "Big Square"
+msgstr ""
+
+# @ islemag
+#: functions.php:132
+msgid "Vertical Rectangle"
+msgstr ""
+
+# @ islemag
+#: functions.php:133
+msgid "Small Square"
+msgstr ""
+
+# @ islemag
+#: functions.php:168
+msgid "Sidebar"
+msgstr ""
+
+# @ islemag
+#: functions.php:178
+msgid "Header advertisment area"
+msgstr ""
+
+# @ islemag
+#: functions.php:186
+#, php-format
+msgid "Advertisments area %d"
+msgstr ""
+
+# @ islemag
+#: functions.php:201
+msgid "Footer area 1"
+msgstr ""
+
+# @ islemag
+#: functions.php:204
+msgid "Footer area 2"
+msgstr ""
+
+# @ islemag
+#: functions.php:207
+msgid "Footer area 3"
+msgstr ""
+
+# @ islemag
+#: functions.php:257
+msgid "expand child menu"
+msgstr "открыть дочернее меню"
+
+# @ islemag
+#: functions.php:258
+msgid "collapse child menu"
+msgstr "закрыть дочернее меню"
+
+# @ islemag
+#: functions.php:282
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+# @ islemag
+#: functions.php:283
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+# @ islemag
+#: functions.php:284
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+# @ islemag
+#: functions.php:393
+#, php-format
+msgid "<h4 class=\"media-heading\">%s</h4><span class=\"comment-date\">(%2$s - %3$s)</span>"
+msgstr ""
+
+# @ islemag
+#: functions.php:393
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+# @ islemag
+#: functions.php:399
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+# @ islemag
+#: header.php:49 header.php:105
+msgid "Menu"
+msgstr "﻿Меню"
+
+# @ islemag
+#: header.php:50 header.php:106
+msgid "Skip to content"
+msgstr "Наверх"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:22
+#: inc/class/islemag-banner-control.php:53
+msgid "Banner type"
+msgstr "Вид банера"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:23
+#: inc/class/islemag-banner-control.php:38
+#: inc/class/islemag-banner-control.php:54
+#: inc/class/islemag-banner-control.php:69
+#: inc/class/islemag-widget-big-ad.php:147
+#: inc/class/islemag-widget-content-ad.php:131
+#: inc/class/islemag-widget-multiple-ads.php:145
+msgid "Image"
+msgstr "Изображение"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:24
+#: inc/class/islemag-banner-control.php:55
+#: inc/class/islemag-widget-big-ad.php:148
+#: inc/class/islemag-widget-content-ad.php:132
+#: inc/class/islemag-widget-multiple-ads.php:146
+msgid "Code"
+msgstr "Код"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:26
+#: inc/class/islemag-banner-control.php:57
+msgid "Banner position"
+msgstr "Расположение баннера"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:27
+#: inc/class/islemag-banner-control.php:58
+msgid "Left"
+msgstr "Слева"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:28
+#: inc/class/islemag-banner-control.php:59
+msgid "Center"
+msgstr "По центру"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:29
+#: inc/class/islemag-banner-control.php:60
+msgid "Right"
+msgstr "Справа"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:32
+#: inc/class/islemag-banner-control.php:63
+msgid "Banner Code"
+msgstr "HTML код баннера"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:33
+#: inc/class/islemag-banner-control.php:39
+msgid "Recommended size: 728px x 90px"
+msgstr "Рекомендуемый размер: 728px х 90px"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:34
+#: inc/class/islemag-banner-control.php:65
+#: inc/class/islemag-widget-big-ad.php:166
+#: inc/class/islemag-widget-content-ad.php:150
+#: inc/class/islemag-widget-multiple-ads.php:160
+msgid "Text"
+msgstr "Текст"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:41
+#: inc/class/islemag-banner-control.php:72
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:43
+#: inc/class/islemag-banner-control.php:44
+#: inc/class/islemag-banner-control.php:74
+#: inc/class/islemag-banner-control.php:75
+#: inc/class/islemag-general-control.php:71
+#: inc/class/islemag-general-control.php:72
+#: inc/class/islemag-general-control.php:107
+#: inc/class/islemag-general-control.php:108
+#: inc/class/islemag-general-control.php:143
+#: inc/class/islemag-general-control.php:144
+#: inc/class/islemag-widget-big-ad.php:156
+#: inc/class/islemag-widget-content-ad.php:140
+#: inc/class/islemag-widget-multiple-ads.php:150
+msgid "Link"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-banner-control.php:64
+#: inc/class/islemag-banner-control.php:70
+msgid "Recomanded size: 728px x 90px"
+msgstr "Рекомендуемые нами размер: 728px х 90px"
+
+# @ islemag
+#: inc/class/islemag-category-selector.php:17
+msgid "All"
+msgstr "Все"
+
+# @ islemag
+#: inc/class/islemag-general-control.php:50
+#: inc/class/islemag-general-control.php:86
+#: inc/class/islemag-general-control.php:125
+msgid "Islemag"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-general-control.php:55
+#: inc/class/islemag-general-control.php:92
+#: inc/class/islemag-general-control.php:128
+msgid "Icon"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-general-control.php:75
+#: inc/class/islemag-general-control.php:111
+#: inc/class/islemag-general-control.php:149
+msgid "Delete field"
+msgstr "Удалить поле"
+
+# @ islemag
+#: inc/class/islemag-general-control.php:171
+msgid "Add new field"
+msgstr "Добавить новое поле"
+
+# @ islemag
+#: inc/class/islemag-widget-big-ad.php:119
+#: inc/class/islemag-widget-multiple-ads.php:115 inc/customizer.php:414
+#: inc/customizer.php:443 inc/customizer.php:473 inc/customizer.php:503
+#: inc/customizer.php:540
+msgid "Title"
+msgstr "Название"
+
+# @ islemag
+#: inc/class/islemag-widget-big-ad.php:129
+#: inc/class/islemag-widget-content-ad.php:117
+#: inc/class/islemag-widget-multiple-ads.php:135
+msgid "Advertisement "
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-widget-big-ad.php:133
+#: inc/class/islemag-widget-content-ad.php:121
+msgid "Recommended sizes:"
+msgstr "Рекомендуемые размеры:"
+
+# @ islemag
+#: inc/class/islemag-widget-big-ad.php:134
+msgid "300 x 250 px"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-widget-big-ad.php:135
+#: inc/class/islemag-widget-content-ad.php:123
+msgid "300 x 100 px"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-widget-big-ad.php:136
+msgid "300 x 600 px"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-widget-big-ad.php:137
+msgid "250 x 250 px"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-widget-big-ad.php:142
+#: inc/class/islemag-widget-multiple-ads.php:140
+msgid "Alt Title"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-widget-big-ad.php:154
+#: inc/class/islemag-widget-content-ad.php:138
+msgid "Open in new tab"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-widget-big-ad.php:159
+#: inc/class/islemag-widget-content-ad.php:143
+#: inc/class/islemag-widget-multiple-ads.php:153
+msgid "Image:"
+msgstr "Изображение:"
+
+# @ islemag
+#: inc/class/islemag-widget-big-ad.php:165
+#: inc/class/islemag-widget-content-ad.php:149
+#: inc/class/islemag-widget-multiple-ads.php:159
+msgid "Code:"
+msgstr "Код:"
+
+# @ islemag
+#: inc/class/islemag-widget-content-ad.php:122
+msgid "728 x 90 px"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-widget-content-ad.php:124
+msgid "468 x 60 px"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-widget-content-ad.php:125
+msgid "234 x 60 px"
+msgstr ""
+
+# @ islemag
+#: inc/class/islemag-widget-multiple-ads.php:118
+msgid "Recommended size: 125 x 125 px"
+msgstr "Рекомендуемый размер: 125 х 125 точек"
+
+# @ islemag
+#: inc/customizer.php:18
+msgid "Text color"
+msgstr "Цвет текста"
+
+# @ islemag
+#: inc/customizer.php:35
+msgid "Header"
+msgstr "Шапка"
+
+# @ islemag
+#: inc/customizer.php:41
+msgid "Frontpage sections"
+msgstr "Настройки главной странице"
+
+# @ islemag
+#: inc/customizer.php:49
+msgid "Header top bar"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:55
+msgid "Header content"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:56
+msgid "Islemag header content"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:62
+msgid "Header slider"
+msgstr "Заголовок слайдер"
+
+# @ islemag
+#: inc/customizer.php:68 inc/customizer.php:174 template-frontpage.php:56
+#: template-frontpage.php:255
+msgid "Section 1"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:74 inc/customizer.php:198 template-frontpage.php:92
+#: template-frontpage.php:288
+msgid "Section 2"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:80 inc/customizer.php:222 template-frontpage.php:129
+#: template-frontpage.php:324
+msgid "Section 3"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:86 inc/customizer.php:246 template-frontpage.php:165
+#: template-frontpage.php:359
+msgid "Section 4"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:92 inc/customizer.php:276 template-frontpage.php:202
+#: template-frontpage.php:396
+msgid "Section 5"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:98
+msgid "Single post settings"
+msgstr "Настройки для записей"
+
+# @ islemag
+#: inc/customizer.php:342
+msgid "Title color"
+msgstr "Цвет заголовка"
+
+# @ islemag
+#: inc/customizer.php:348
+msgid "Top slider's posts title color"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:354
+msgid "Top slider's posts text color"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:361
+msgid "Section's posts title color"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:367
+msgid "Section's posts text color"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:374 inc/customizer.php:612
+msgid "Add new social icon"
+msgstr "Добавить иконку соцсети"
+
+# @ islemag
+#: inc/customizer.php:384
+msgid "Disable sticky menu"
+msgstr "Отключить \"залипание\" главного меню"
+
+# @ islemag
+#: inc/customizer.php:391 inc/customizer.php:420 inc/customizer.php:449
+#: inc/customizer.php:479 inc/customizer.php:509 inc/customizer.php:546
+#: template-parts/content-template3.php:33
+#: template-parts/content-template3.php:90
+#: template-parts/content-template3.php:143
+#: template-parts/content-template3.php:195
+#: template-parts/content-template4.php:32
+#: template-parts/content-template4.php:84
+msgid "Category"
+msgstr "Кaтегория"
+
+# @ islemag
+#: inc/customizer.php:397 inc/customizer.php:426 inc/customizer.php:455
+#: inc/customizer.php:485 inc/customizer.php:515 inc/customizer.php:552
+msgid "Number of posts in this section"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:398 inc/customizer.php:427 inc/customizer.php:456
+#: inc/customizer.php:486 inc/customizer.php:516 inc/customizer.php:553
+msgid "To display all posts, set this field to -1."
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:407 inc/customizer.php:436 inc/customizer.php:465
+#: inc/customizer.php:495 inc/customizer.php:533
+msgid "Full width section"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:408 inc/customizer.php:437 inc/customizer.php:466
+#: inc/customizer.php:496 inc/customizer.php:534
+msgid "If you check this box and you have a sidebar, the section will be displayed after the sidebar"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:524
+msgid "Number of posts in each slide"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:562
+msgid "Hide author's description?"
+msgstr "Скрыть описание автора?"
+
+# @ islemag
+#: inc/customizer.php:563
+msgid "If you check this box, the author's description will disappear from single page."
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:570
+msgid "Hide related posts?"
+msgstr "Скрыть похожие записи"
+
+# @ islemag
+#: inc/customizer.php:571
+msgid "If you check this box, related posts will disappear from single page."
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:578
+msgid "Hide post thumbnail on single page?"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:579
+msgid "If you check this box, the thumbnail will disappear from single page."
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:585
+msgid "Footer logo"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:591
+msgid "Footer logo link"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:592
+msgid "If not set, the footer logo will point to homepage url."
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:598
+msgid "Allowed HTML tags: <p>, <br>, <em>, <strong>, <ul>, <li>, <a>, <button>, <address>, <abbr>"
+msgstr "Разрешены HTML теги: <p>, <br>, <em>, <strong>, <ul>, <li>, <a>, <button>, <address>, <abbr>"
+
+# @ islemag
+#: inc/customizer.php:600
+msgid "Footer content"
+msgstr ""
+
+# @ islemag
+#: inc/customizer.php:606
+msgid "Socials title"
+msgstr ""
+
+# @ islemag
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %1$s"
+
+# @ islemag
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "от %s"
+
+# @ islemag
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+# @ islemag
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in: %1$s"
+msgstr "Категории: %1$s"
+
+# @ islemag
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged: %1$s"
+msgstr "Метки: %1$s"
+
+# @ islemag
+#: inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr "Комментировать"
+
+# @ islemag
+#: inc/template-tags.php:64
+msgid "Comment"
+msgstr "Комментарий"
+
+# @ islemag
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr "% Комментариев"
+
+# @ islemag
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72 template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+# @ islemag
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результат поиска для: %s"
+
+# @ islemag
+#: searchform.php:2 searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск для:"
+
+# @ islemag
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search in here..."
+msgstr "Искать здесь ..."
+
+# @ islemag
+#: template-frontpage.php:50 template-frontpage.php:249
+msgid "Ads Area 1"
+msgstr ""
+
+# @ islemag
+#: template-frontpage.php:86 template-frontpage.php:282
+msgid "Ads Area 2"
+msgstr ""
+
+# @ islemag
+#: template-frontpage.php:123 template-frontpage.php:318
+msgid "Ads Area 3"
+msgstr ""
+
+# @ islemag
+#: template-frontpage.php:159 template-frontpage.php:353
+msgid "Ads Area 4"
+msgstr ""
+
+# @ islemag
+#: template-frontpage.php:196 template-frontpage.php:390
+msgid "Ads Area 5"
+msgstr ""
+
+# @ islemag
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Найдено ничего"
+
+# @ islemag
+#: template-parts/content-none.php:23
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ islemag
+#: template-parts/content-none.php:28
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но по данным критериям поиска ничего не найдено. Пожалуйста, попробуйте другие слова."
+
+# @ islemag
+#: template-parts/content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поможет новый поиск."
+
+# @ islemag
+#: template-parts/content-page.php:21 template-parts/content-search.php:75
+#: template-parts/content-single.php:84 template-parts/content.php:76
+msgid "Pages:"
+msgstr "Страницы: "
+
+# @ islemag
+#: template-parts/content-single.php:95
+msgid "Categories:"
+msgstr "Категории:"
+
+# @ islemag
+#: template-parts/content-single.php:111
+msgid "No Responses"
+msgstr "Нет комментариев"
+
+# @ islemag
+#: template-parts/content-single.php:111
+msgid "One Response"
+msgstr "Один комментарий"
+
+# @ islemag
+#: template-parts/content-single.php:111
+msgid "% Responses"
+msgstr "% Комментариев"
+
+# @ islemag
+#: template-parts/content-single.php:113
+msgid "by"
+msgstr "от"
+
+# @ islemag
+#: template-parts/content-single.php:135
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+# @ islemag
+#: template-parts/content-single.php:217
+msgid "Show more categories"
+msgstr "Показать больше категорий"
+
+# @ islemag
+#: template-parts/content-single.php:232
+msgid "Read More"
+msgstr "Подробнее"
+
+# @ islemag
+#: template-parts/content-template1.php:56
+#: template-parts/content-template2.php:46
+#: template-parts/content-template3.php:63
+#: template-parts/content-template3.php:110
+#: template-parts/content-template3.php:164
+#: template-parts/content-template3.php:216
+#: template-parts/content-template4.php:53
+#: template-parts/content-template4.php:105
+msgid "Rating:"
+msgstr "Рейтинг:"
+
+# @ islemag
+#: template-parts/content-template2.php:60
+#: template-parts/content-template3.php:123
+#: template-parts/content-template3.php:177
+#: template-parts/content-template3.php:229
+#: template-parts/content-template4.php:66
+#: template-parts/content-template4.php:118
+msgid "Posted By"
+msgstr "Опубликовано"
+
+# @ islemag
+#: template-parts/content.php:69
+#, php-format
+msgid "Read more %s ..."
+msgstr "Подробнее %s"
+
+# @ islemag
+#: template-parts/content.php:69
+msgid "about "
+msgstr "об"
